@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Incredible Rubber Soap",
+    "price": "216.86",
+    "category": "Music"
+  },
+  {
+    "name": "Incredible Bronze Soap",
+    "price": "841.19",
+    "category": "Grocery"
+  },
+  {
+    "name": "Tasty Marble Shoes",
+    "price": "989.29",
+    "category": "Music"
+  },
+  {
+    "name": "Incredible Gold Chicken",
+    "price": "678.65",
+    "category": "Sports"
+  },
+  {
+    "name": "Rustic Silk Chicken",
+    "price": "724.49",
+    "category": "Movies"
+  },
+  {
+    "name": "Handcrafted Bamboo Shoes",
+    "price": "368.90",
+    "category": "Books"
+  },
+  {
+    "name": "Refined Marble Chips",
+    "price": "147.69",
+    "category": "Shoes"
+  },
+  {
+    "name": "Refined Plastic Sausages",
+    "price": "484.75",
+    "category": "Home"
+  },
+  {
+    "name": "Incredible Plastic Hat",
+    "price": "56.25",
+    "category": "Computers"
+  },
+  {
+    "name": "Elegant Gold Gloves",
+    "price": "46.50",
+    "category": "Grocery"
+  }
+]
